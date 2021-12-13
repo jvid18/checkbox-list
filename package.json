@@ -1,0 +1,10 @@
+{
+  "name": "checkbox-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": ["Checkbox list", "Multi checkbox"],
+  "author": "Jvid",
+  "license": "ISC"
+}
